@@ -16,7 +16,7 @@ function BotListArmy ({bots, removeBot, deleteBot}){
 
     return(
         <div className= 'd-block p-2 bg-secondary army'>
-            <strong className="text-light">PAPITO BOT PAPI</strong>
+            <strong className="text-light">BOT ARMY</strong>
             <div className="container mt-5">
                 <div className="row army-row">
                     {botArmy}
