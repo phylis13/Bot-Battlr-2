@@ -1,7 +1,7 @@
 # Title
 
 -Bot Battlr
- To access this application click this link <a href= "https://bot-battlr-2-gamma.vercel.app">Bot-Battlr-2</a>
+ To access this application click this link <a href= "https://bot-battlr-2-gamma.vercel.app/">Bot-Battlr-2</a>
  
 
 # Description
